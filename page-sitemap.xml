@@ -32,28 +32,40 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/macon/</loc>
+		<lastmod>2025-02-28T19:02:07+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/byron/</loc>
-		<lastmod>2025-02-28T18:21:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:02:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/centerville/</loc>
-		<lastmod>2025-02-28T18:21:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:02:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/perry/</loc>
-		<lastmod>2025-02-28T18:21:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:02:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/fort-valley/</loc>
-		<lastmod>2025-02-28T18:21:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/macon/</loc>
-		<lastmod>2025-02-28T18:21:43+00:00</lastmod>
+		<lastmod>2025-02-28T19:02:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ant-control/</loc>
 		<lastmod>2025-02-27T22:29:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/silverfish-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/tick-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/moth-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/squirrel-removal/</loc>
@@ -101,18 +113,6 @@
 	</url>
 	<url>
 		<loc>/mosquito-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/silverfish-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/tick-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/moth-control/</loc>
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
